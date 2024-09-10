@@ -1,0 +1,16 @@
+**********-----------------JS practice code for beginner----------------***********
+
+1_BASICS
+
+01 test.js(print statement)
+02 variables
+03 Datatypes
+04 ConversionOperations
+05 Comparision
+06 DatatypesSummary
+07 Strings
+08 Nums and Maths
+09 Dates in JS
+
+
+2_
